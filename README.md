@@ -3,17 +3,26 @@
 ![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=Cris546)
 
 ## About
+- Name's Cris 
 - 💻 Backend Software Engineer with some Frontend experience
 - 👨‍🎓 Bachelors in Computer Science at California State of University of Long Beach, Class of 2021
+- 👷‍♂️ Currently: Unemployed 
 
+## Experience
+- Attended Google's Computer Science Summer Institue 2017
+- Worked at Ubisoft's E3 2018 Showfloor
 
 ## Current Status
 - 🛠 Working on:
     - Looking for a full-time job
-    - Working on my Discord bot
+    <a href="https://github.com/Cris546/Discord-Bot">
+    - Working on Discord bot
+    </a>
 
 ## Get in touch
+Email is on my profile
 [<img src="LI-In-Bug.png" height="40em" align="center" alt="Cris' LinkedIn" />](https://www.linkedin.com/in/cristobal-cortez-b32aa9221/)
+
 
 
 ## Metrics on Github
