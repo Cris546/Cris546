@@ -15,7 +15,7 @@ Name's Cris
 ## Tools & Tech Used
 ![](https://img.shields.io/badge/CODE-Java-informational?style=flat&logo=java)
 ![](https://img.shields.io/badge/CODE-Python-informational?style=flat&logo=python)
-![](https://img.shields.io/badge/CODE-C#-informational?style=flat&logo=csharp)
+![](https://img.shields.io/badge/CODE-CSharp-informational?style=flat&logo=csharp)
 ![](https://img.shields.io/badge/CODE-C++-informational?style=flat&logo=cplusplus)
 ![](https://img.shields.io/badge/Tool-MySQL-informational?style=flat&logo=mysql)
 ![](https://img.shields.io/badge/CODE-HTML-informational?style=flat&logo=html5)
