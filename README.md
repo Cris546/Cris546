@@ -3,7 +3,7 @@
 ![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=Cris546)
 
 ## About
-- Name's Cris 
+Name's Cris 
 - 💻 Backend Software Engineer with some Frontend experience
 - 👨‍🎓 Bachelors in Computer Science at California State of University of Long Beach, Class of 2021
 - 👷‍♂️ Currently: Unemployed 
@@ -11,6 +11,17 @@
 ## Experience
 - Attended Google's Computer Science Summer Institue 2017
 - Worked at Ubisoft's E3 2018 Showfloor
+
+## Tools & Tech Used
+![](https://img.shields.io/badge/CODE-Java-informational?style=flat&logo=java)
+![](https://img.shields.io/badge/CODE-Python-informational?style=flat&logo=python)
+![](https://img.shields.io/badge/CODE-C#-informational?style=flat&logo=csharp)
+![](https://img.shields.io/badge/CODE-C++-informational?style=flat&logo=cplusplus)
+![](https://img.shields.io/badge/Tool-MySQL-informational?style=flat&logo=mysql)
+![](https://img.shields.io/badge/CODE-HTML-informational?style=flat&logo=html5)
+![](https://img.shields.io/badge/CODE-JavaScript-informational?style=flat&logo=javascript)
+![](https://img.shields.io/badge/CODE-React-informational?style=flat&logo=react)
+
 
 ## Current Status
 - 🛠 Working on:
