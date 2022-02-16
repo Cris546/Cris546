@@ -13,7 +13,7 @@
     - Working on my Discord bot
 
 ## Get in touch
-[<img src="linkedin.png" height="40em" align="center" alt="Cris' LinkedIn" />](https://www.linkedin.com/in/cristobal-cortez-b32aa9221/)
+[<img src="LI-In-Bug.png" height="40em" align="center" alt="Cris' LinkedIn" />](https://www.linkedin.com/in/cristobal-cortez-b32aa9221/)
 
 
 ## Metrics on Github
