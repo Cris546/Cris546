@@ -32,6 +32,7 @@ Name's Cris
 
 ## Get in touch
 Email is on my profile
+
 [<img src="LI-In-Bug.png" height="40em" align="center" alt="Cris' LinkedIn" />](https://www.linkedin.com/in/cristobal-cortez-b32aa9221/)
 
 
