@@ -25,9 +25,9 @@ Name's Cris
 
 ## Current Status
 - 🛠 Working on:
-    - Looking for a full-time job
+    - Looking for a full-time backend job
     <a href="https://github.com/Cris546/Discord-Bot">
-    - Working on Discord bot
+    - Creating APIs in Node js (and Java)
     </a>
 
 ## Get in touch
