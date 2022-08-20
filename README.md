@@ -26,8 +26,8 @@ Name's Cris
 ## Current Status
 - 🛠 Working on:
     - Looking for a full-time backend job
-    <a href="https://github.com/Cris546/node-api">
-    - Creating APIs in Node js (and Java)
+    <a href="https://github.com/Cris546/book_manager">
+    - Creating a Book Manager with Node and React
     </a>
 
 ## Get in touch
