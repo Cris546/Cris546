@@ -6,7 +6,7 @@
 Name's Cris 
 - 💻 Backend Software Engineer with some Frontend experience
 - 👨‍🎓 Bachelors in Computer Science at California State of University of Long Beach, Class of 2021
-- 👷‍♂️ Currently: Sofwtware Deveploer 1 at Noridian Healthcare Solutions 
+- 👷‍♂️ Currently: Sofwtware Developer 1 at Noridian Healthcare Solutions 
 
 ## Experience
 - Attended Google's Computer Science Summer Institue 2017
@@ -25,7 +25,7 @@ Name's Cris
 
 ## Current Status
 - 🛠 Working on:
-    - Working as a Full stack software engineer at Noridian Healthcare Solutions
+    - Working as a full stack software engineer at Noridian Healthcare Solutions
     <a href="https://github.com/Cris546/book_manager">
     - Creating a Book Manager with Node and React
     </a>
